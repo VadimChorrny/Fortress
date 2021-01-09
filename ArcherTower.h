@@ -10,6 +10,8 @@ public:
 		:Range("ArcherTower","Weapon",0),Archer("ArcherTower","Weapon",0),Shooter("ArcherTower","Weapon",100)
 	{}
 	void doShoot();
+	void print() const;
+
 private:
 };
 

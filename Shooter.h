@@ -3,6 +3,8 @@
 class Shooter
 {
 public:
+	friend class ArcherTower;
+	Shooter() = default;
 	Shooter(const string& namePerson, const string& nameWeapon, const int& countAmmunition)
 	{
 		setNameWeapon(nameWeapon);

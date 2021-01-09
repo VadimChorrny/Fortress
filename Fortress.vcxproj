@@ -142,6 +142,7 @@
     <ClCompile Include="Archer.cpp" />
     <ClCompile Include="ArcherTower.cpp" />
     <ClCompile Include="Catapult.cpp" />
+    <ClCompile Include="Fortress.cpp" />
     <ClCompile Include="Range.cpp" />
     <ClCompile Include="Shooter.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -150,6 +151,7 @@
     <ClInclude Include="Archer.h" />
     <ClInclude Include="ArcherTower.h" />
     <ClInclude Include="Catapult.h" />
+    <ClInclude Include="Fortress.h" />
     <ClInclude Include="Lib.h" />
     <ClInclude Include="Range.h" />
     <ClInclude Include="Shooter.h" />

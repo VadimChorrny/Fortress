@@ -1,5 +1,9 @@
-﻿  Range.cpp
-  Shooter.cpp
+﻿  ArcherTower.cpp
+C:\Users\vadim_oyanwuw\source\repos\Fortress\Fortress\ArcherTower.h(11,1): error C2385: ambiguous access of 'Shooter'
+  Fortress.cpp
+C:\Users\vadim_oyanwuw\source\repos\Fortress\Fortress\ArcherTower.h(11,1): error C2385: ambiguous access of 'Shooter'
+  Range.cpp
   Source.cpp
+C:\Users\vadim_oyanwuw\source\repos\Fortress\Fortress\ArcherTower.h(11,1): error C2385: ambiguous access of 'Shooter'
+C:\Users\vadim_oyanwuw\source\repos\Fortress\Fortress\Source.cpp(54,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
-  Fortress.vcxproj -> C:\Users\vadim_oyanwuw\source\repos\Fortress\Debug\Fortress.exe

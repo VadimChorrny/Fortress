@@ -7,3 +7,9 @@ void ArcherTower::doShoot()
 	Range::doShoot();
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
 }
+
+void ArcherTower::print() const
+{
+	Range::print();
+	Archer::print();
+}
